@@ -1,0 +1,4 @@
+C:\Users\mrt_b\Desktop\Kod S Tribonacci Serisi\Kod S Tribonacci Serisi\bin\Debug\Kod S Tribonacci Serisi.exe
+C:\Users\mrt_b\Desktop\Kod S Tribonacci Serisi\Kod S Tribonacci Serisi\bin\Debug\Kod S Tribonacci Serisi.pdb
+C:\Users\mrt_b\Desktop\Kod S Tribonacci Serisi\Kod S Tribonacci Serisi\obj\x86\Debug\Kod S Tribonacci Serisi.exe
+C:\Users\mrt_b\Desktop\Kod S Tribonacci Serisi\Kod S Tribonacci Serisi\obj\x86\Debug\Kod S Tribonacci Serisi.pdb
